@@ -1,0 +1,7 @@
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P5_2_1204053\P5_2_1204053\bin\Debug\P5_2_1204053.dll
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P5_2_1204053\P5_2_1204053\bin\Debug\P5_2_1204053.pdb
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P5_2_1204053\P5_2_1204053\obj\Debug\P5_2_1204053.DigitalClock.resources
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P5_2_1204053\P5_2_1204053\obj\Debug\P5_2_1204053.csproj.GenerateResource.Cache
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P5_2_1204053\P5_2_1204053\obj\Debug\P5_2_1204053.dll
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P5_2_1204053\P5_2_1204053\obj\Debug\P5_2_1204053.pdb
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P5_2_1204053\P5_2_1204053\obj\Debug\P5_2_1204053.csprojResolveAssemblyReference.cache
